@@ -1,0 +1,1 @@
+DRIVER_PATH = './chromedriver_mac_arm64/chromedriver'
